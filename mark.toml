@@ -1,5 +1,5 @@
 username = "your-email@example.com" # ユーザー名
-password = "your-api-token" # Confluence APi Key
+password = "your-api-token" # Confluence API Key
 base-url = "https://<組織名>.atlassian.net/wiki" # ベースのURL
 space = "~********" # conflのスペースID
 title-from-h1 = true # markdownのh1要素を、ページのタイトルに設定する
